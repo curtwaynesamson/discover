@@ -1,0 +1,3 @@
+0x2c993523F3755946f57a08251CD9EE98ED35f977
+
+This address can only receive Ethereum from Ethereum network. Don’t send ETH from other networks, any ERC-20s or NFTs, or it may result in a loss of funds.
